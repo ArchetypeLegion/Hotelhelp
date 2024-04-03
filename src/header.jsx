@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 
-function header(){
+function Header(){
     return(
         <header>
             <img src="public/logo.png" alt="logo" id="logo"/>   
@@ -17,4 +17,4 @@ function header(){
     );
 }
 
-export default header
+export default Header

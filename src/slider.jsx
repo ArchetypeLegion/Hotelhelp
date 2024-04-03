@@ -1,7 +1,7 @@
 import React from 'react'
 import './slider.css'
 
-function slider(){
+function Slider(){
     return(
         <React.Fragment>
         <div className="slide_container">
@@ -20,4 +20,4 @@ function slider(){
         </React.Fragment>
     );
 }
-export default slider
+export default Slider

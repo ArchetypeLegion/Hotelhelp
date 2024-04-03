@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 
-function about(){
+function About(){
     return(
         <div id="about_us" className = "about_us">
       <div className="square">
@@ -24,4 +24,4 @@ function about(){
   
     );
 }
-export default about
+export default About

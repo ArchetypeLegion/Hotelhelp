@@ -1,20 +1,20 @@
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import header from './header.jsx';
-import about from './about.jsx'
-import slider from './slider.jsx'
-import footer from './footer.jsx'
+import Header from './header.jsx';
+import About from './about.jsx';
+import Slider from './slider.jsx';
+import Footer from './footer.jsx';
 
 
 function App() {
   return (
       <div>
-        <header />
-        <about />
-        <slider />
-        <footer />
-        
+        <Header />
+        <About />
+        <Slider />
+        <Footer />
+
       </div>
   );
 }

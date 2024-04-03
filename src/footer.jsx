@@ -1,6 +1,6 @@
 import React from 'react'
 import "./footer.css"
-function footer(){
+function Footer(){
     return(
         <div id="footer" className = "footer"> 
             <div class="adress"> 
@@ -22,4 +22,4 @@ function footer(){
     </div>
     );
 }
-export default footer
+export default Footer
