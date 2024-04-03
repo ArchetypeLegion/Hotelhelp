@@ -1,0 +1,22 @@
+.square{
+	margin-left: 9%;
+	margin-top: 25%;
+	display: inline-block;
+	padding: 30px;
+	width: 18%;
+	height: 300px;
+	background-color: #5DCFC3;
+}
+.icon{
+	width: 80px;
+	height: 80px;
+	padding-right: 90%;
+}
+.square h1{
+	text-align: left;
+
+}
+.square p{
+	text-align: left;
+	font-size: 25px;
+}

@@ -1,0 +1,47 @@
+.footer{
+	margin-top: 300px;
+	background-color: #03045e;
+	color: white;
+	column-count: 3;
+}
+
+.adress{
+	margin-right: 150px;
+	margin-top: 10%;
+	text-align: left;
+	column-width: 200px;
+	font-size: 20px;
+} 
+#logoend{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin-left: 20px;
+}
+
+.contact{	
+	margin-left: 200px;
+	text-align: center;
+	display: inline-block;
+	column-width: 200px;
+	font-size: 25px;
+}
+.contactimg{
+	width: 200px;
+	height: 200px;
+	margin-left: -10px;
+	margin-top: 10px;
+}
+
+.follow {
+	display: flexbox;
+	text-align: center;
+	column-width: 300px;
+}
+.follow h2 {
+	margin-top: 120px;
+}
+.follow img {
+	width: 50px;
+	height: 50px;
+}
