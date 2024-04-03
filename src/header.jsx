@@ -4,7 +4,7 @@ import './header.css'
 function Header(){
     return(
         <header>
-            <img src="./public/logo.png" alt="logo" />
+            <img src="./assets/logo.png" alt="logo" />
             <h1 className="maintext">Hotel Luxurious International Getaway Magnificent Abode</h1>
             <nav className="head_menu">
             <ul>

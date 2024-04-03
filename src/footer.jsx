@@ -4,7 +4,7 @@ function Footer(){
     return(
         <div id="footer" className = "footer"> 
             <div class="adress"> 
-                <img id = "logoend" src="./public/logo.png" alt="logo"/>
+                <img id = "logoend" src="./assets/logo.png" alt="logo"/>
                 <h1>Charlotte Street Hotel   </h1>
                 <p>193 Victoria Street London EC35 4LK</p>
             </div>
@@ -15,9 +15,9 @@ function Footer(){
             </div>
             <div class="follow">
                 <h2>Следуйте за нами в Instagram</h2>
-                <a href="#"><img src="./public/instagram.png" alt="instagram"/></a>
-                <a href="#"><img src="./public/facebook.png" alt="facebook"/></a>
-                <a href="#"><img src="./public/telegram.png" alt="telegram"/></a>
+                <a href="#"><img src="./assets/instagram.png" alt="instagram"/></a>
+                <a href="#"><img src="./assets/facebook.png" alt="facebook"/></a>
+                <a href="#"><img src="./assets/telegram.png" alt="telegram"/></a>
             </div>
     </div>
     );
