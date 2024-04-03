@@ -16,9 +16,9 @@ function Footer(){
             </div>
             <div class="follow">
                 <h2>Следуйте за нами в Instagram</h2>
-                <a href="#"><img src="./assets/instagram.png" alt="instagram"/></a>
-                <a href="#"><img src="./assets/facebook.png" alt="facebook"/></a>
-                <a href="#"><img src="./assets/telegram.png" alt="telegram"/></a>
+                <a href="#"><img src="https://hsygvgnykngkzvna.public.blob.vercel-storage.com/instagram-nq55pdZSHaFkIr9uXXZCJBrOmrO76Q.png" alt="instagram"/></a>
+                <a href="#"><img src="https://hsygvgnykngkzvna.public.blob.vercel-storage.com/facebook-21PubXt6ugMfexAxM6qZ1gizo71gzk.png" alt="facebook"/></a>
+                <a href="#"><img src="https://hsygvgnykngkzvna.public.blob.vercel-storage.com/telegram-BlGy55rgSN32jI60U3svsow5pKrZjA.png" alt="telegram"/></a>
             </div>
     </div>
     );
