@@ -4,7 +4,7 @@ import './header.css'
 function Header(){
     return(
         <header>
-            <img src="https://hsygvgnykngkzvna.public.blob.vercel-storage.com/logo-XbOxitXNNSrdB9NNaFtXMe30aC1xrz.png" alt="logo" />
+            <img id = "logo" src="https://hsygvgnykngkzvna.public.blob.vercel-storage.com/logo-XbOxitXNNSrdB9NNaFtXMe30aC1xrz.png" alt="logo" />
             <h1 className="maintext">Hotel Luxurious International Getaway Magnificent Abode</h1>
             <nav className="head_menu">
             <ul>
